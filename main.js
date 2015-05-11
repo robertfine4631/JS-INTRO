@@ -36,7 +36,7 @@ math = high - "5";
 // Q: What is `math` set to?
 
 // 45
-
+console.log (math)
 // Create a variable to calculate Tim's age
 // The answer should read "Tim is 31 years old"
 var born = 1983;
