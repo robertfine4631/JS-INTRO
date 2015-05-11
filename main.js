@@ -44,8 +44,8 @@ var today = 2015;
 
 // Answer 
 
-var tAge = today - born;
-	if (tAge = 31) {
+var tAge = today - born -1;
+	if (tAge = 31){
 		console.log	("Tim is 31 years old");
 };
 
